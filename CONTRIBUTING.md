@@ -4,7 +4,7 @@ First, it is awesome that you are considering contributing to Kubescape! Contrib
 
 When contributing, we categorize contributions into two:
 * Small code changes or fixes, whose scope are limited to a single or two files
-* Complex features and improvements, whose are not limited
+* Complex features and improvements, which are not limited
 
 If you have a small change, feel free to fire up a Pull Request.
 
